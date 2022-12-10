@@ -1,0 +1,41 @@
+.img{
+    border:1px solid grey; ;
+    width: 300px;
+    padding-bottom: 0px;
+}
+
+.div1 {
+    width: 300px;
+    border: 1px solid grey;
+    padding-left: 5px;
+}
+
+.div2 {
+    width: 300px;
+    border: 1px solid grey;
+    padding-left: 5px;
+}
+
+.div3 {
+    width: 300px;
+    border: 1px solid grey;
+    padding-left: 5px;
+}
+
+.div4 {
+    width: 300px;
+    border: 1px solid grey;
+    padding-left: 5px;
+}
+
+.div5 {
+    width: 300px;
+    border: 1px solid grey;
+    padding-top:15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+}
+
+.a1{
+   padding-right: 15px;
+}
